@@ -25,6 +25,7 @@ body {
     position: absolute;
     bottom: 30px;
     right: 30px;
+    z-index: 500 !important;
 }
 
 /* CONTENT IS CLOSE */
