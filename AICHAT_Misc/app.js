@@ -1,6 +1,6 @@
 class Chatbox {
     constructor() {
-        this.startLink = "http://192.168.2.198:3123"
+        this.startLink = "http:/3123"
         this.linkReq = "/start";
 
         this.args = {
